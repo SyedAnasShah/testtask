@@ -31,6 +31,10 @@ To run react frontend
 2. `npm start`
 
 ![Main Page](https://github.com/SyedAnasShah/testtask/blob/master/1.JPG)
+![Registeration Page](https://github.com/SyedAnasShah/testtask/blob/master/2.JPG)
+![Success Page](https://github.com/SyedAnasShah/testtask/blob/master/3.JPG)
+![Dashboard](https://github.com/SyedAnasShah/testtask/blob/master/4.JPG)
+![Postman](https://github.com/SyedAnasShah/testtask/blob/master/5.JPG)
 
 
 
