@@ -30,7 +30,7 @@ To run react frontend
 1. `cd testtask/frontend`
 2. `npm start`
 
-
+![Main Page](https://github.com/SyedAnasShah/testtask/blob/master/1.JPG)
 
 
 
